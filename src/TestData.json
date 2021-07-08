@@ -1,0 +1,114 @@
+[
+	{
+		"type": "test",
+		"question": "What is React ?",
+		"image": "https://www.purrweb.com/blog/wp-content/uploads/2020/12/02-4-2.png",
+		"options": [
+			{ "correct": "Library" },
+			["Library", "Function", "Language", "Class"]
+		]
+	},
+	{
+		"type": "test",
+		"question": "What is JavaScript ?",
+		"image": "https://apexensino.com.br/wp-content/uploads/2017/05/276_post_13688.jpg",
+		"options": [
+			{ "correct": "Language" },
+			["Library", "Function", "Language", "Class"]
+		]
+	},
+	{
+		"type": "test",
+		"question": "What is it mean - HOC ?",
+		"image": "https://xtudodaweb.com/wp-content/uploads/2020/06/Tipos-de-Desenvolvedores.png",
+		"options": [
+			{ "correct": "Hight Order Component" },
+			[
+				"Hot Open Combination",
+				"Hold Open Closed",
+				"Hight Order Component",
+				"Higth Order Class"
+			]
+		]
+	},
+	{
+		"type": "test",
+		"question": "Where does hook use ?",
+		"image": "",
+		"options": [
+			{ "correct": "Function components" },
+			["CSS", "Function components", "Method of Object", "Class components"]
+		]
+	},
+	{
+		"type": "",
+		"question": "What is React ?",
+		"image": "https://miro.medium.com/max/700/0*ixMavTK_WGBM0OPJ.png"
+	},
+	{
+		"type": "test",
+		"question": "Which method is called after rendering ?",
+		"image": "https://desenvolvimentoparaweb.com/app/uploads/2017/02/1487684242-desenvolvedores-devem-participar-do-processo-de-design.jpg",
+		"options": [
+			{ "correct": "componentDidMount" },
+			["componentDidUpdate", "useEffect", "claerTimeout", "componentDidMount"]
+		]
+	},
+	{
+		"type": "test",
+		"question": "What does method setState ?",
+		"image": "https://www.khan.com.br/wp-content/uploads/2020/02/destaquedesenvolvimento.jpg",
+		"options": [
+			{ "correct": "Change State" },
+			["Change State", "Restart APP", "Request Server", "Change Style"]
+		]
+	},
+	{
+		"type": "test",
+		"question": "What is the Axios library used for?",
+		"image": "https://dev-to-uploads.s3.amazonaws.com/i/drmw49f47dgwrz4x6452.jpg",
+		"options": [
+			{ "correct": "Ajax requests" },
+			[
+				"Change classNames of style",
+				"Ajax requests",
+				"Create design",
+				"Keep data"
+			]
+		]
+	},
+	{
+		"type": "test",
+		"question": "What is it Redux?",
+		"image": "https://miro.medium.com/max/1000/1*IqbDs1rBcGfDlOLRLGwj-Q.png",
+		"options": [
+			{ "correct": "Library for State Managment" },
+			[
+				"Library of CSS Style",
+				"Library for State Managment",
+				"Language",
+				"Database"
+			]
+		]
+	},
+	{
+		"type": "test",
+		"question": "What is MongoDB ?",
+		"image": "https://websoles.com/Blog/wp-content/uploads/2019/02/a6977c1a-4216-47c6-99c6-17fb4cf396e9.jpg",
+		"options": [
+			{ "correct": "Database" },
+			[
+				"Static property of Object",
+				"Database",
+				"Method",
+				"Library of CSS Style"
+			]
+		]
+	},
+	{
+		"type": "test",
+		"question": "What engine does JavaScript use?",
+		"image": "https://blog.dankicode.com/wp-content/uploads/2018/08/ferramentas-do-desenvolvedor-full-stack.png",
+		"options": [{ "correct": "V8" }, ["V6", "W12 diesel", "V8 2turbo", "V8"]]
+	}
+]
