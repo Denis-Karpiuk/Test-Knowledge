@@ -62,6 +62,8 @@
 .test__message {
 	width: 92%;
 	margin: auto;
+	font-size: xx-large;
+	font-weight: bold;
 }
 .test__answers {
 	display: grid;
@@ -100,4 +102,88 @@
 }
 .correctAnswer button {
 	background-color: greenyellow;
+}
+
+@media (max-width: 767px) {
+	.test {
+		grid-template-rows: minmax(auto, 360px) auto;
+		margin: 10px;
+		padding: 10px;
+		border: none;
+	}
+	.test__answers {
+		display: grid;
+		grid-template-columns: auto;
+	}
+	.test__question,
+	.test__message {
+		font-size: large;
+		font-weight: bold;
+	}
+	.test__counters {
+		font-size: large;
+		align-items: center;
+	}
+	.button button {
+		font-size: large;
+		height: 40px;
+	}
+}
+
+@media (max-width: 480px) {
+	.test {
+		grid-template-rows: minmax(auto, 360px) auto;
+		margin: 10px;
+		padding: 10px;
+		border: none;
+	}
+	.test__answers {
+		display: grid;
+		grid-template-columns: auto;
+	}
+	.test__question,
+	.test__message {
+		font-size: large;
+		font-weight: bold;
+	}
+	.test__counters {
+		font-size: large;
+		align-items: center;
+	}
+	.button button {
+		font-size: large;
+		height: 40px;
+	}
+	.test__result,
+	.test__results {
+		font-size: smaller;
+	}
+}
+@media (max-width: 375px) {
+	.test {
+		grid-template-rows: minmax(auto, 270px) auto;
+		margin: 10px;
+		border: none;
+	}
+	.test__answers {
+		display: grid;
+		grid-template-columns: auto;
+	}
+	.test__question,
+	.test__message {
+		font-size: large;
+		font-weight: bold;
+	}
+	.test__counters {
+		font-size: large;
+		align-items: center;
+	}
+	.button button {
+		font-size: large;
+		height: 40px;
+	}
+	.test__result,
+	.test__results {
+		font-size: small;
+	}
 }

@@ -63,7 +63,7 @@ const Test = ({
 							</div>
 						)}
 						<div className={'test__message'}>
-							<h1>{results[testMode].message}</h1>
+							<div>{results[testMode].message}</div>
 						</div>
 					</div>
 
@@ -101,7 +101,7 @@ const Test = ({
 							</div>
 						</div>
 						<div className={'test__question'}>
-							<h1>{question}</h1>
+							<div>{question}</div>
 						</div>
 					</div>
 					<div className={'test__answers'}>
