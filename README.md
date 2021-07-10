@@ -1,5 +1,5 @@
 # This is an app to test your knowledge of frontend development.
-![Alt Text](https://github.com/Denis-Karpiuk/Test-Knowledge/tree/master/src/assets)
+![Alt Text](https://github.com/Denis-Karpiuk/Test-Knowledge/tree/master/src/assets/Test_Knowledge.gif)
 ## What can this test can do:
 ### Display:
 ***
