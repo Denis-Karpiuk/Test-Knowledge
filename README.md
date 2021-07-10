@@ -1,4 +1,5 @@
 # This is an app to test your knowledge of frontend development.
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 ## What can this test can do:
 ### Display:
 ***
