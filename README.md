@@ -1,5 +1,6 @@
 # This is an app to test your knowledge of frontend development.
 ![Alt Text](https://github.com/Denis-Karpiuk/Test-Knowledge/blob/master/src/assets/Test_Knowledge.gif)
+**You can try pass this test: https://denis-karpiuk.github.io/Test-Knowledge/**
 ## What can this test can do:
 ### Display:
 ***
